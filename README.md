@@ -8,7 +8,7 @@
 # Binance API Price Data Interface
 
 Using Binance's API this script obtains the historical price data of a specified asset, given the time range and time frame of interest as inputs.
-This price data is then parsed in to a dataframe ready for use in backtesting trading strategies or simply data visualisation.
+This price data is then parsed in to a dataframe ready for use in [backtesting trading strategies](https://github.com/Elisik/Quant-Trading-Strategy-Backtesting-Framework) or simply data visualisation.
 
 
 
