@@ -5,7 +5,7 @@
 
 
 
-# Binance price data importer
+# Binance API Price Data Interface
 
 Using Binance's API this script obtains the historical price data of a specified asset, given the time range and time frame of interest as inputs.
 This price data is then parsed in to a dataframe ready for use in backtesting trading strategies or simply data visualisation.
@@ -74,7 +74,7 @@ Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/Quant-Trading-Strategy-Backtesting-Framework](https://github.com/Elisik/Quant-Trading-Strategy-Backtesting-Framework)
+Project Link: [https://github.com/Elisik/Binance-API-Price-Data-Interface](https://github.com/Elisik/Binance-API-Price-Data-Interface)
 
 
 
